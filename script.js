@@ -58,7 +58,3 @@ function mensajeCopiado(){
     }
 
 }
-
-function eliminarTexto(){
-    document.getElementById("texto-encriptado").value="";
-}
