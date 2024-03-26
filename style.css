@@ -57,6 +57,7 @@ header h1{
     padding: 50px;
 }
 
+<<<<<<< HEAD
 .btn-borrar{
     display: flex;
     width: 50px;
@@ -74,6 +75,8 @@ header h1{
     background-size: cover;
 }
 
+=======
+>>>>>>> 26174b24a6237a46edc3fd61b8c327b6cd036291
 .texto p{
     display: inline;
     margin: 10px 30px;;
@@ -147,6 +150,7 @@ header h1{
     header h1 {
         font-size: 1.2em;
     }
+<<<<<<< HEAD
 
     .btn-borrar{
         display: flex;
@@ -155,6 +159,8 @@ header h1{
         left: 85%;
     }
 
+=======
+>>>>>>> 26174b24a6237a46edc3fd61b8c327b6cd036291
     .texto textarea, .mensaje textarea {
         width: 250px;
         height: 200px;
