@@ -54,7 +54,7 @@ header h1{
     border-radius: 50px;
     border-color: white;
     background-color: rgba(255,255,255,0.5);
-    padding: 40px;
+    padding: 50px;
 }
 
 .btn-borrar{
@@ -63,7 +63,7 @@ header h1{
     height: 50px;
     position: absolute;
     left: 50%;
-    top: 70%;
+    top: 80%;
     background: none;
     overflow: hidden;
     outline: none;
@@ -95,7 +95,7 @@ header h1{
     font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     border-radius: 50px;
     border-color: white;
-    padding: 40px;
+    padding: 50px;
 }
 
 .btn .btn-encriptador{
@@ -151,13 +151,14 @@ header h1{
     .btn-borrar{
         display: flex;
         position: absolute;
-        top: 35%;
-        left: 70%;
+        top: 40%;
+        left: 85%;
     }
 
     .texto textarea, .mensaje textarea {
         width: 250px;
         height: 200px;
+        padding: 50px;
     }
 
     .logoYus {
